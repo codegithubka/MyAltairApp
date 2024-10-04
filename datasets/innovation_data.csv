@@ -1,15 +1,15 @@
-Team,Field 1,Readiness,TRL 1,Demo 1,Field 2,Readiness,TRL 2,Demo 2,Field 3,Readiness,TRL 3,Demo 3,Field 4,Readiness,TRL 4,Demo 4,Field 5,Readiness,TRL 5,Demo 5,Field 6,Readiness,TRL 6,Demo 6,Number of Demos
-DICE,Mistatement Identification,Ongoing,1,None,Bankruptcy Prediction,Ongoing,2,Indentification of Going Concerns,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1
-MagCIL,Music Information Retrieval,Algorithms,,,Speech Analytics,Algorithms,,,Video Analysis,Algorithms,,,Image Recognition,Ongoing,,,Sound Scene Recognition,Datasets,,,Soundscape Analysis,Datasets,,,
-BioHIT,Open Data Graph,,,,DNA  Sequences,,,,Knowledge Graphs,,,,Graphs,,,,,,,,,,,,
-CAKT,,,,,,,,,,,,,,,,,Clinical Data Prediction Models,,,,None,None,,,
-CER,Maritime Situational Awareness,,,,Fleet Management,,,,Activity Recognition,,,,Forecasting in Cancer Cell Simulations,,,,None,None,,,None,None,,,4
-DIA,,,,,,,,,,,,,,,,,,,,,,,,,
-KMU,IT Systems and Knowledge Management,,,,Intelligent DSS,,,,Security of Cloud-Based Services,,,,Edge Computing and AI-Driven Virtual Assistants,,,,Competency-Based Learning,,,,None,None,,,
-RoboSKEL,ROS2 Training,,,,Human Robot Collaboration,,,,Cobot Demos,,,,UGV Demos,,,,UAV Demos,,,,None,None,,,4
-AI Politeia,,,,,,,,,,,,,,,,,,,,,,,,,
-ARTIFACT,,,,,,,,,,,,,,,,,,,,,,,,,
-INSANE,,,,,,,,,,,,,,,,,,,,,,,,,
-ID-IS,Smart Cities,Ongoing,2,None,Earth Observation,Ongoing,3,None,Preference Systems,Ongoing,1,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-DEG,,,,,,,,,,,,,,,,,,,,,,,,,0
-ISL,Sensor Fusion,Datasets,6,Triage,Security Engineering,Datasets,7,Faraday,Privacy and Ethics,Ongoing,None,None,None,None,None,None,None,None,None,None,None,None,None,None,2
+Team,Field 1,Readiness,Demo 1,Field 2,Readiness,Demo 2,Field 3,Readiness,Demo 3,Field 4,Readiness,Demo 4,Field 5,Readiness,Demo 5,Field 6,Readiness,Demo 6,Number of Demos
+DICE,Mistatement Identification,Ongoing,None,Bankruptcy Prediction,Ongoing,Yes,None,None,None,None,None,None,None,None,None,None,None,None,1
+MagCIL,Music Information Retrieval,Algorithms,None,Speech Analytics,Algorithms,None,Video Analysis,Algorithms,None,Image Recognition,Ongoing,None,Sound Scene Recognition,Datasets,None,Soundscape Analysis,Datasets,None,0
+BioHIT,Cancer Prediction,Datasets,Yes,Drug-drug Interaction,Datasets,Yes,Genetic Therapy,Algorithms,Yes,None,None,None,None,None,None,None,None,None,3
+CAKT,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0
+CER,Maritime Situational Awareness,Datasets,Yes,Fleet Management,Datasets,Yes,Activity Recognition,Datasets,Yes,Forecasting in Cancer Cell Simulations,Datasets,Yes,None,None,,None,None,None,4
+DIA,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0
+KMU,IT Systems and Knowledge Management,Ongoing,None,Intelligent DSS,Ongoing,None,Security of Cloud-Based Services,Ongoing,None,Edge Computing and AI-Driven Virtual Assistants,Ongoing,None,Competency-Based Learning,Ongoing,None,None,None,None,3
+RoboSKEL,Effective Data Colletion,Ongoing,None,AI Assistance in Data Relevance,Ongoing,None,Learning with small datasets,Ongoing,None,Design Problems,Ongoing,None,None,None,None,None,None,None,4
+AI Politeia,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0
+ARTIFACT,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0
+INSANE,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0
+ID-IS,Smart Cities,Ongoing,None,Earth Observation,Ongoing,None,Preference Systems,Ongoing,None,None,None,None,None,None,None,None,None,None,0
+DEG,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0
+ISL,Sensor Fusion,Datasets,Yes,Security Engineering,Datasets,Yes,Privacy and Ethics,Ongoing,None,None,None,None,None,None,None,None,None,None,2
